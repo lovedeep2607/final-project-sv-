@@ -1,0 +1,15 @@
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\bin\Debug\net6.0\ConnectFourGame.exe
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\bin\Debug\net6.0\ConnectFourGame.deps.json
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\bin\Debug\net6.0\ConnectFourGame.runtimeconfig.json
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\bin\Debug\net6.0\ConnectFourGame.dll
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\bin\Debug\net6.0\ConnectFourGame.pdb
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ConnectFourGame.csproj.AssemblyReference.cache
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ConnectFourGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ConnectFourGame.AssemblyInfoInputs.cache
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ConnectFourGame.AssemblyInfo.cs
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ConnectFourGame.csproj.CoreCompileInputs.cache
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ConnectFourGame.dll
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\refint\ConnectFourGame.dll
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ConnectFourGame.pdb
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ConnectFourGame.genruntimeconfig.cache
+C:\Users\15878\Desktop\ConnectFourNew\ConnectFourGame\obj\Debug\net6.0\ref\ConnectFourGame.dll
